@@ -12,8 +12,8 @@ A Plugin is active if his directory is containing an empty file called "active".
 Every plugin needs a plugin.php-file. This file is executed every request.
 You can append your code using Plugin::addEventHandler().
 
-author: fchriis
-license: public domain
+:author: fchriis
+:license: public domain
 
 Requirements
 ------------
