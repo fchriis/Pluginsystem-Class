@@ -1,0 +1,6 @@
+{
+	"title": "Testplugin",
+	
+	"description": "This plugin shows how to use the pluginsystem.",
+	"version": "1.0.0"
+}
